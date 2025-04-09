@@ -2,7 +2,7 @@
 project:
   wokwi_id:     427788073776788481       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "self-d"      # Project title
-  author:       "leo"      # Your name
+  author:       "leo xu"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "a simple three gate system"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
